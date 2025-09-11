@@ -27,7 +27,6 @@ Gmail: grzegorz.jan.rybakowski@gmail.com
 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RastaGregx&show_icons=true&theme=holi" width="45%" />
-</p> 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RastaGregx&layout=compact&theme=holi" width="35%" />
-</p>
+</p> 
+
