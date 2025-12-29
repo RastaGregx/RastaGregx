@@ -1,38 +1,24 @@
-# Hello there, I'm Grzegorz (Greg) :wave:
+# About Me
 
-Welcome to my GitHub profile!
-I’m a beginner programmer eager to learn as much as I can about computer science. My current favorite programming language is C++. I’m passionate about several areas within IT, including:
+Currently a Computer Science student trying to learn as much as I can. I am mostly interested in low-level programming, as it allows me to combine software with hardware and make projects more engaging. However, this does not stop me from working on higher-level tasks as well.
 
-- Low-level Programming
-- Embedded Software
-- FPGA
-- Algorithms and Data Structures
-- Electronics
+Currently learning:
+- **C, C++, and STM HAL**
+- **Soldering**
+- **Electronics**
 
-## About Me
+Current projects:
+- **Mini Sumo Robot** – an autonomous robot developed in a group as a collaborative learning project
+- **LED Cube Tic-Tac-Toe** – a 4×4×4 LED cube created for an embedded systems course, using an ESP32 as the microcontroller
 
-- :telescope: I’m currently working on Hexapod Robot named **RastaHex**
-- :seedling: I’m currently learning **C and STM HAL**
-- :zap: Fun fact: I love **Plants, Gaming Consoles**
+Planned projects:
+- **Hexapod 2.0** – based on STM HAL and inverse kinematics
+- **Productivity Calendar** – a tool to track my productivity
 
-## My Skills
+Previous experience:
+- **Languages:** C++, HTML/CSS, SQL, JavaScript, Python
+- **Tools:** Git, GitHub, Visual Studio Code, MSYS2
+- **Databases:** MySQL
 
-- **Languages**: C++, HTML/CSS, SQL, Javascript, Python
-- **Tools**: Git, GitHub, Visual Studio Code, Msys2
-- **Databases**: MySQL
-
-## Connect with Me
-
-- **Discord**: rastagreg
+Contact:
 - **Gmail**: grzegorz.jan.rybakowski@gmail.com
-
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RastaGregx&show_icons=true&theme=holi" width="45%" />
-</p> 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RastaGregx&layout=compact&theme=holi" width="35%" />
-</p>
